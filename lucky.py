@@ -29,5 +29,3 @@ def lucky(number, lrange = 100):
             break
     
     return lucky, nearest
-
-print(lucky(72, lrange = 1000))
